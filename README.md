@@ -1,9 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0c1418,142830,1e3a45&height=220&section=header&text=Pal%20Bhamare&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=Aspiring%20Data%20Scientist%20%C2%B7%20Python%20%26%20ML%20Enthusiast%20%C2%B7%20Nashik%2C%20India&descAlignY=60&descSize=15&descColor=a5f3fc" width="100%"/>
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=220&section=header&text=Pal%20Bhamare&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=Learning%20Data%20Science%20%C2%B7%20Nashik%2C%20India&descAlignY=60&descSize=15&descColor=aac8f0" width="100%"/>
 
 <div align="center">
-      
+
 ```
 ┌──────────────────────────────────────────────────────────────┐
 │   Turning raw data into real decisions. One model at a time.  │
